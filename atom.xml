@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/greatzh/blog</id>
+    <id>https://blog.zihol.studio</id>
     <title>ZhangZihao</title>
-    <updated>2021-01-07T00:04:41.018Z</updated>
+    <updated>2021-01-07T00:40:55.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/greatzh/blog"/>
-    <link rel="self" href="https://github.com/greatzh/blog/atom.xml"/>
+    <link rel="alternate" href="https://blog.zihol.studio"/>
+    <link rel="self" href="https://blog.zihol.studio/atom.xml"/>
     <subtitle>Always be a Student.</subtitle>
-    <logo>https://github.com/greatzh/blog/images/avatar.png</logo>
-    <icon>https://github.com/greatzh/blog/favicon.ico</icon>
+    <logo>https://blog.zihol.studio/images/avatar.png</logo>
+    <icon>https://blog.zihol.studio/favicon.ico</icon>
     <rights>All rights reserved 2021, ZhangZihao</rights>
     <entry>
         <title type="html"><![CDATA[Diary01]]></title>
-        <id>https://github.com/greatzh/blog/post/diary01/</id>
-        <link href="https://github.com/greatzh/blog/post/diary01/">
+        <id>https://blog.zihol.studio/post/diary01/</id>
+        <link href="https://blog.zihol.studio/post/diary01/">
         </link>
         <updated>2021-01-06T23:45:20.000Z</updated>
         <summary type="html"><![CDATA[<p>我本科学校在举办运动会，我可能已经有大半年没有怎么使用过QQ了，那天看到QQ上面突然有了一个消息1，然后我就点进去看，其实也没有什么消息，就是本科时候的党支部的QQ群把我移出群了。然后我点开QQ空间看看最近的动态，好像更新动态的人很少，总是那几个人，或许也可能是不可见的原因吧。</p>
@@ -60,8 +60,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello 2021]]></title>
-        <id>https://github.com/greatzh/blog/post/hello-2021/</id>
-        <link href="https://github.com/greatzh/blog/post/hello-2021/">
+        <id>https://blog.zihol.studio/post/hello-2021/</id>
+        <link href="https://blog.zihol.studio/post/hello-2021/">
         </link>
         <updated>2021-01-06T22:37:02.000Z</updated>
         <summary type="html"><![CDATA[<p>学计算机这几年，中间弄了好多次博客网站之类的，却很少有真正地坐下来好好写一篇博客，这次重新又弄了，想着第一篇，我写些什么是好呢？刚好是2021的一开始，我就说我就在这里上载一篇我的随笔好了吧。尽管，我其实一直没想好我的2020的总结我要说些什么东西，因为我一直觉得过去的一年是很糟糕的一年。</p>
