@@ -976,7 +976,7 @@ td {
 }
 
       .main {
-        max-width: 900px;
+        max-width: 78%;
       }
     
       .post-container .post .post-title {
@@ -1001,7 +1001,7 @@ td {
       }
     
       body {
-        background: rgb(250,250,250);
+        background: rgb(255,255,255);
       }
     
       body {
